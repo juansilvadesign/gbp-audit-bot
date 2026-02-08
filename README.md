@@ -1,4 +1,4 @@
-# 🗺️ GBP Audit Bot - Local Ranking Monitoring System
+# 🗺️ GBP Audit - Local Ranking Monitoring System
 
 **GBP Audit Bot** is a comprehensive geogrid-based local ranking monitoring system designed to track Google Business Profile (GBP) visibility across geographic areas. The system generates coordinate grids, performs SERP searches at each point, and provides detailed analytics with AI-powered insights.
 
